@@ -1,0 +1,2 @@
+# TryGit
+To learn github
